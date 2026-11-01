@@ -1,0 +1,16 @@
+# Data stays out of the repo (see README for how to get it)
+data/
+*.csv
+*.csv.gz
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Editor and tool settings
+.vscode/
+.idea/
+.env
